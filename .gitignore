@@ -6,3 +6,4 @@
 *.log
 *.dep
 *.layout
+*.depend
