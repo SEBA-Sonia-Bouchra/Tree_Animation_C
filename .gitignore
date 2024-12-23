@@ -1,0 +1,8 @@
+/bin/
+/debug/
+/obj/
+*.o
+*.exe
+*.log
+*.dep
+*.layout
